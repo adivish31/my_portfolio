@@ -5,7 +5,7 @@ export function CliSection() {
       max-[480px]:py-2.5 max-[480px]:px-3
       max-[360px]:py-2 max-[360px]:px-2">
       <a
-        href="https://drive.google.com/file/d/10mnhe0xe_O6zIWV1EMZNyNX3jRSG-1RO/view?usp=sharing"
+        href="https://drive.google.com/file/d/1kOLwW3EA9fCyCFz6QjQ1t3LyvmXSCDFY/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2.5 px-5 py-2.5 bg-transparent border border-[var(--border-color)] rounded text-sm font-medium text-[var(--text-color)] no-underline transition-all duration-300
