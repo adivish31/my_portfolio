@@ -6,7 +6,7 @@ const FOOTER_LINKS = [
   { href: 'https://github.com/adivish31', icon: 'fa-brands fa-github', label: 'Github', tooltip: '@adivish31' },
   { href: 'https://twitter.com/Adi_vish28', icon: 'fa-brands fa-x-twitter', label: 'Twitter', tooltip: '@Adi_vish28' },
   { href: 'https://www.linkedin.com/in/adivish2818/', icon: 'fa-brands fa-linkedin', label: 'LinkedIn', tooltip: '@adivish2818' },
-  { href: 'https://www.instagram.com/adi._.vish?igsh=MW9iaGdhZXFhYTdpYg==', icon: 'fa-brands fa-instagram', label: 'Instagram', tooltip: '@adi._.vish' },
+  { href: '', icon: 'fa-brands fa-instagram', label: 'Instagram', tooltip: '@adi._.vish' },
 ];
 
 export function Footer() {
