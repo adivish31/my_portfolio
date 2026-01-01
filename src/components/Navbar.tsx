@@ -129,7 +129,7 @@ export function Navbar() {
           </a>
         </nav>
         <a
-          href="https://drive.google.com/file/d/10mnhe0xe_O6zIWV1EMZNyNX3jRSG-1RO/view?usp=sharing"
+          href="https://drive.google.com/file/d/1kOLwW3EA9fCyCFz6QjQ1t3LyvmXSCDFY/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center gap-2 px-3 py-1.5 text-sm text-[var(--text-color)] border border-[var(--border-color)] rounded transition-all duration-200
