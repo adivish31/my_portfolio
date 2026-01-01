@@ -1,4 +1,4 @@
-rtimport { useRoleAnimation } from '../hooks/useRoleAnimation';
+import { useRoleAnimation } from '../hooks/useRoleAnimation';
 import { IconButton } from './IconButton';
 
 interface TerminalCardProps {
