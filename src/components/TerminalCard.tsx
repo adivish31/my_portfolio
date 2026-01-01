@@ -1,4 +1,4 @@
-import { useRoleAnimation } from '../hooks/useRoleAnimation';
+rtimport { useRoleAnimation } from '../hooks/useRoleAnimation';
 import { IconButton } from './IconButton';
 
 interface TerminalCardProps {
@@ -93,7 +93,7 @@ export function TerminalCard({ onProfileClick }: TerminalCardProps) {
 
       {/* Tagline */}
       <div className="text-center text-sm leading-relaxed text-[var(--text-color)] opacity-70 max-w-[90%] mx-auto font-normal max-sm:text-[13px] max-sm:max-w-full max-[480px]:text-xs">
-        I make things that work. Sometimes they matter. Now exploring Web3.
+        I make things that work. Sometimes they matter. Exploring AI & ML.
       </div>
     </div>
   );
