@@ -184,11 +184,11 @@ export function ActivitySection() {
           href={hasDisplayData ? `https://open.spotify.com/track/${displayData?.track_id}` : 'https://open.spotify.com'}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 px-4 py-2 bg-[rgba(128,128,128,0.08)] border border-[rgba(255,255,255,0.15)] opacity-85 rounded transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] cursor-pointer no-underline
-            hover:bg-[rgba(128,128,128,0.15)] hover:opacity-100 hover:-translate-y-0.5 hover:border-[rgba(255,255,255,0.25)]
-            light-theme:bg-transparent light-theme:border-[rgba(0,0,0,0.12)]
-            max-sm:px-3 max-sm:py-[7px] max-sm:gap-2
-            max-[480px]:px-2.5 max-[480px]:py-1.5 max-[480px]:gap-[7px]"
+          className="inline-flex items-center gap-2 px-4 py-2 bg-transparent border border-[var(--border-color)] opacity-85 rounded transition-all duration-300 ease-[cubic-bezier(0.4,0,0.2,1)] cursor-pointer no-underline
+            hover:opacity-100 hover:-translate-y-0.5 hover:border-[var(--accent-cyan)]
+            md:px-5 md:py-2.5 md:gap-2.5
+            max-sm:px-3 max-sm: py-2 max-sm: gap-2
+            max-[480px]:px-2.5 max-[480px]:py-1.5 max-[480px]:gap-1.5"
         >
           {/* Album Art or Spotify Icon */}
           {hasDisplayData && displayData?.album_art_url ? (
