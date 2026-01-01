@@ -32,7 +32,7 @@ export function TerminalCard({ onProfileClick }: TerminalCardProps) {
       <div className="flex justify-end items-center mb-8 max-sm:flex-col max-sm:gap-3 max-[480px]:flex-col-reverse max-[480px]:gap-3 max-[480px]:mb-6">
         <div className="flex gap-2 ml-auto max-sm:w-full max-sm:justify-center max-sm:flex-wrap max-sm:ml-0">
           <IconButton href="https://twitter.com/Adi_vish28" icon="fa-brands fa-x-twitter" ariaLabel="Twitter" />
-          <IconButton href="https://www.instagram.com/adi._.vish?igsh=MW9iaGdhZXFhYTdpYg==" icon="fa-brands fa-instagram" ariaLabel="Instagram" />
+          <IconButton href="" icon="fa-brands fa-instagram" ariaLabel="Instagram" />
         </div>
       </div>
 
