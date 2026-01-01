@@ -4,7 +4,7 @@ export function ActionButtons() {
       <div className="flex gap-3 items-center flex-wrap justify-center">
         {/* Resume Button */}
         <a
-          href="/resume.pdf"
+          href="https://drive.google.com/file/d/1kOLwW3EA9fCyCFz6QjQ1t3LyvmXSCDFY/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-4 py-2 bg-[var(--card-bg)] border border-[var(--border-color)] rounded transition-all duration-300 no-underline hover:border-[var(--accent-cyan)] hover:-translate-y-0.5"
